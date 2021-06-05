@@ -1,0 +1,22 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "Google Lighthouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbreault/lighthouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbreault/lighthouse/issues"
+  },
+  "homepage": "https://github.com/mbreault/lighthouse#readme",
+  "dependencies": {
+    "lighthouse": "^8.0.0"
+  }
+}
