@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mbreault/lighthouse#readme",
   "dependencies": {
+    "broken-link-checker": "^0.7.8",
     "lighthouse": "^8.0.0"
   }
 }
